@@ -70,6 +70,7 @@ function SideNavbar (props) {
 	                <ListItemText primary={text}/>
 	              </ListItem>
                 </div>
+            
 	            );
 	          })
 	        }
