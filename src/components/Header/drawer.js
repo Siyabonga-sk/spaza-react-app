@@ -75,7 +75,7 @@ function SideNavbar (props) {
 	        }
 	      </List>
 	    </Box>
-	);
+  ) ;
 
 	return(
 		<nav className={classes.Drawer}>
