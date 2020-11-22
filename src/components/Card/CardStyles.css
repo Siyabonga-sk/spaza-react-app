@@ -1,0 +1,20 @@
+body {
+    direction: rtl;
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: auto;
+    background-color: teal;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.flex-item {
+    width: 100%;
+    margin: 10px;
+    justify-content: center;
+    text-align: center;
+}
