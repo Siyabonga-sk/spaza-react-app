@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
       color: 'gray',
       justifyContent: 'center',
       "&:hover": { color: theme.palette.warning.light },
-    },/*some comment*/
+    },/*some comment were added*/
     header: {
       height: '25%',
       background: 'snow',
